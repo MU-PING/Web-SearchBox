@@ -38,6 +38,7 @@ body{
     font-size: 16px;
     height: 38px;
     width: 0px;   
+    padding: 0px;
 }
 .search-box:hover .search-txt{
     width: 250px;
